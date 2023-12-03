@@ -6,5 +6,9 @@ I've been trying to contrbute to open source projects outside of work when I hav
 
 One of my open source projects is [Issue Status](https://github.com/tadhglewis/issue-status), it's an open source status page built using React and GitHub Issues.
 
+Disclosures
+
+- [CVE-2023-26144](https://security.snyk.io/vuln/SNYK-JS-GRAPHQL-5905181)
+
 ---
 Self-taught / highly recommend [OSSU](https://github.com/ossu/computer-science)
