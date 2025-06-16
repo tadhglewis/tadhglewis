@@ -2,11 +2,13 @@
 
 Welcome to my GitHub profile. Feel free to have a look around.
 
-One of my open source projects is [Issue Status](https://github.com/tadhglewis/issue-status), it's an open source status page built using React and GitHub Issues.
+#### 👾 Contributions
+
+- [issue-status](https://github.com/tadhglewis/issue-status) / creator
 
 #### Vulnerability disclosures
 
 - [CVE-2023-26144](https://security.snyk.io/vuln/SNYK-JS-GRAPHQL-5905181)
 
 ---
-Self-taught / highly recommend [OSSU](https://github.com/ossu/computer-science)
+[OSSU](https://github.com/ossu/computer-science)
